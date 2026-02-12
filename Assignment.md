@@ -1,8 +1,6 @@
 # ASSIGNMENT 1  
 ## TASK 1: Data Structure Classification and Applications  
 
-**Course:** Data Structures and Algorithms  
-**Duration:** 2 Weeks  
 **Programming Language Used:** Python  
 
 ---
